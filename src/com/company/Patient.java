@@ -16,4 +16,8 @@ public class Patient {
     public String getName() {
         return _name;
     }
+
+    public boolean isOnClock(int clock) {
+        return clock % _period == 0;
+    }
 }
