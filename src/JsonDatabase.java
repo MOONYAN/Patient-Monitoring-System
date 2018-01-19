@@ -1,5 +1,3 @@
-package com.company;
-
 import org.json.*;
 
 public class JsonDatabase implements IDatabase {

@@ -1,5 +1,3 @@
-package com.company;
-
 public class Patient {
     private String _name;
     private int _period;

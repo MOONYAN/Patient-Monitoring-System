@@ -1,5 +1,3 @@
-package com.company;
-
 abstract public class Sensor {
 
     private String _name;
